@@ -1,0 +1,11 @@
+C:\Users\rodrigo.bguerreiro\source\repos\Aula25deJaneiro\bin\Debug\Aula25deJaneiro.exe.config
+C:\Users\rodrigo.bguerreiro\source\repos\Aula25deJaneiro\bin\Debug\Aula25deJaneiro.exe
+C:\Users\rodrigo.bguerreiro\source\repos\Aula25deJaneiro\bin\Debug\Aula25deJaneiro.pdb
+C:\Users\rodrigo.bguerreiro\source\repos\Aula25deJaneiro\obj\Debug\Aula25deJaneiro.csproj.AssemblyReference.cache
+C:\Users\rodrigo.bguerreiro\source\repos\Aula25deJaneiro\obj\Debug\Aula25deJaneiro.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodrigo.bguerreiro\source\repos\Aula25deJaneiro\obj\Debug\Aula25deJaneiro.Form1.resources
+C:\Users\rodrigo.bguerreiro\source\repos\Aula25deJaneiro\obj\Debug\Aula25deJaneiro.Properties.Resources.resources
+C:\Users\rodrigo.bguerreiro\source\repos\Aula25deJaneiro\obj\Debug\Aula25deJaneiro.csproj.GenerateResource.cache
+C:\Users\rodrigo.bguerreiro\source\repos\Aula25deJaneiro\obj\Debug\Aula25deJaneiro.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.bguerreiro\source\repos\Aula25deJaneiro\obj\Debug\Aula25deJaneiro.exe
+C:\Users\rodrigo.bguerreiro\source\repos\Aula25deJaneiro\obj\Debug\Aula25deJaneiro.pdb
