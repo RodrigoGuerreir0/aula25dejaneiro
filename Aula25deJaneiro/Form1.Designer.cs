@@ -61,7 +61,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(289, 74);
             this.button2.TabIndex = 3;
-            this.button2.Text = "Clique para fazer uma divisão";
+            this.button2.Text = "Clique para fazer uma soma";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
